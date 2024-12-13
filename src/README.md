@@ -5,7 +5,7 @@ tags:
   - provider/aws
 ---
 
-# Component: `global`
+# Component: `global-accelerator-endpoint-group`
 
 This component is responsible for provisioning a Global Accelerator Endpoint Group.
 
